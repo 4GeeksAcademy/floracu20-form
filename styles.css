@@ -1,0 +1,13 @@
+body {
+    font-weight: 500;
+}
+
+#pie {
+    color:rgb(84, 82, 82);
+    font-weight: 400;
+    font-size: smaller;
+}
+
+#tarjetas i {
+    font-size: x-large;
+}
